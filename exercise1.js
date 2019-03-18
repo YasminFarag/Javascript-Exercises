@@ -24,4 +24,8 @@ var familyName=('John Smith');
 var age=('43');
 var jobTitle=('teacher');
 var cityName=('berlin');
-console.log(familyName, 'is a '+ age + ' years old ', 'who lives in '+ cityName);
+var status =('married');
+console.log(familyName, 'is a '+ age + ' years old ', 'who lives in '+ cityName, ' he is ' + status);
+
+
+
