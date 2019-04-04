@@ -9,6 +9,7 @@ var firstName =('Yasmin');
 var lastName =('Farag');
 console.log(firstName, lastName);
 
+
 var firstName =('claudia');
 var cityName =('NY');
 var jobTitle =('doctor');
